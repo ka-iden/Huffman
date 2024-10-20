@@ -100,7 +100,7 @@ int main(int argc, char* argv[])
 		}
 		outputFile << decodedString;
 		outputFile.close();
-		std::cout << "Decoded string: " << decodedString << std::endl;
+		std::cout << "File uncompressed successfully. " << std::endl;
 		return 0;
 	}
 	else
