@@ -18,18 +18,10 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\Huffman.h" />
-    <ClInclude Include="src\Node.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\Huffman.cpp" />
-    <ClCompile Include="src\main.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{64cef423-d83f-43c1-8e9b-2858c2d7d060}</ProjectGuid>
+    <ProjectGuid>{3b36a4aa-1b63-42dc-810c-910af0793fcb}</ProjectGuid>
     <RootNamespace>Huffman</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
