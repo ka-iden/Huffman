@@ -4,7 +4,6 @@
 #include <functional>
 #include <stack>
 
-
 Huffman::Huffman(std::string text)
 	: text(text)
 {

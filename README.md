@@ -1,3 +1,7 @@
+# UNDER COMPLETE REWRITING. NOTHING WILL WORK ATM. NO POINT TRYING TO COMPILE LMAO
+# IGNORE WHAT I WROTE DOWN THERE, I WROTE THAT 6 MONTHS AGO
+
+
 # Huffman
 A C++ compression and decompression program that uses Huffman Coding. <br>
 For a final high school project :) <br>
@@ -19,4 +23,4 @@ They were generated with these two commands: <br>
 `Huffman.exe encoded.huff output.txt` <br>
 
 # License
-This repo, just like most of my other repos, is licensed under the [GPL License](LICENSE).
+This repo, just like most of my other repos, is licensed under the [MIT License](LICENSE).
